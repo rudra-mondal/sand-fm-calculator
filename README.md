@@ -8,7 +8,9 @@
 
 A professional desktop application for civil engineers, lab technicians, and students to perform sieve analysis of sand, calculate its Fineness Modulus (FM), classify the sand type, and generate detailed, professional-grade PDF reports.
 
-![Main Application Window](https://raw.githubusercontent.com/rudra-mondal/sand-fm-calculator/main/screenshots/main_window.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b46167d8-1b75-44f9-b68f-ee94b166719c" alt="Main Window" style="height: 520px;">
+</p>
 
 ## 🌟 About The Project
 
@@ -88,7 +90,9 @@ The main application window will appear, and you can start your analysis.
 
 ### 📄 Sample PDF Report
 
-![Sample PDF Report](https://raw.githubusercontent.com/rudra-mondal/sand-fm-calculator/main/screenshots/report.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff918f5f-dbe4-4160-89ba-c44b748fe0f7" alt="Sample PDF Report" style="width: 520px;">
+</p>
 
 ## 📁 Project Structure
 
