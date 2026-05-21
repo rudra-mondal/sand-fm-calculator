@@ -1,0 +1,7 @@
+.venv
+*.png
+test.pdf
+temp.py
+build
+dist
+*.spec
